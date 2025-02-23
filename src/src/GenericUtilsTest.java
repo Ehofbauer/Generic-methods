@@ -1,5 +1,11 @@
 import java.util.Arrays;
 
+/**
+ * Test class for GenericUtils.
+ *
+ * @author Elias Hofbauer
+ * @version 23-02-2025
+ */
 public class GenericUtilsTest {
     public static void main(String[] args) {
         Integer[] intArray = {1, 2, 3, 4, 5};
